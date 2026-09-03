@@ -1,0 +1,33 @@
+MIT License
+
+Copyright (c) 2026 David A. Slavin
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to
+deal in the Software without restriction, including without limitation the
+rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+sell copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+---
+
+NOTE ON UNDERLYING MATHEMATICS:
+
+This license covers the specific code, documentation, and construction
+parameters in this repository. It does not and cannot cover the underlying
+mathematical methods, which are public domain: the Siamese/De la Loubere
+method (1688) and the general theory of magic hypercubes of arbitrary
+dimension (existence proven and a general construction given by Marian
+Trenkler; specific low-dimension hypercubes constructed earlier by
+J.R. Hendricks). See METHODS.md for the full prior-art discussion.
